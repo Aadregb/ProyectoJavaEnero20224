@@ -6,6 +6,6 @@ package ejemplojava2024;
 public class EjemploJava2024 {
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println(">Epi: ¡Hola Blas!");
+        System.out.println((">Epi: ¡Hola Blas!\n>Blas: ¡Hola Epi!\n");
     }  
 }
